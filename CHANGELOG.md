@@ -1,3 +1,17 @@
+# [1.2.0](https://github.com/joaoc-dev/semantic-release-demo/compare/v1.1.1...v1.2.0) (2025-06-03)
+
+
+### Bug Fixes
+
+* dev fix 1 ([f70db7e](https://github.com/joaoc-dev/semantic-release-demo/commit/f70db7ebdece30e2f512754423e6a737bc0157b5))
+* dev fix 2 ([22ee94a](https://github.com/joaoc-dev/semantic-release-demo/commit/22ee94aa0f2c4ef282f9cb757201dfc7515e5163))
+* dev fix 3 ([270bb53](https://github.com/joaoc-dev/semantic-release-demo/commit/270bb5335e55fe732be2ab1c84aa0309f9bc59b6))
+
+
+### Features
+
+* dev feat 1 ([d82660e](https://github.com/joaoc-dev/semantic-release-demo/commit/d82660e1b194c1af85a337bc4240da07a49c504b))
+
 ## [1.1.1](https://github.com/joaoc-dev/semantic-release-demo/compare/v1.1.0...v1.1.1) (2025-06-03)
 
 
