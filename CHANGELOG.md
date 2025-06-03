@@ -1,3 +1,16 @@
+# [1.3.0](https://github.com/joaoc-dev/semantic-release-demo/compare/v1.2.0...v1.3.0) (2025-06-03)
+
+
+### Bug Fixes
+
+* multi feat 1 ([16e337b](https://github.com/joaoc-dev/semantic-release-demo/commit/16e337b1ffbd481d0f72bec229f586743cef0cf4))
+
+
+### Features
+
+* multi feat 1 ([4d7dfde](https://github.com/joaoc-dev/semantic-release-demo/commit/4d7dfdee3b0eb4c2995391f3e4f88cc4bc0ed0b5))
+* multi feat 2 ([11cb0d2](https://github.com/joaoc-dev/semantic-release-demo/commit/11cb0d28c61bd1d4bd0da9dc6e81bac2592c7a13))
+
 # [1.2.0](https://github.com/joaoc-dev/semantic-release-demo/compare/v1.1.1...v1.2.0) (2025-06-03)
 
 
